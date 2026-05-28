@@ -10,3 +10,5 @@ This D2 package has been updated with the uploaded D1 dataset.
 - D1 reference notebook: `data/raw_d1/D1_Final_FIXED_feedback.ipynb`
 
 The evaluation sheet columns are normalized in code, so `Correct PDF` becomes `Correct_PDF` automatically.
+
+PDF files are not uploaded to GitHub because of size limits. 
